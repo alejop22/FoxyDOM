@@ -1,3 +1,6 @@
+# FoxyDOM
+Practicando el uso del DOM y su manipulación, usando un template de Tailwind
+
 # Snowpack Tailwind
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
@@ -69,3 +72,4 @@ Your app is ready to be deployed!
 ### Q: What about Eject?
 
 No eject needed! Snowpack guarantees zero lock-in, and CSA strives for the same.
+
